@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">eT3_internship_project</string>
+    <string name="title1">Coffee first.</string>
+    <string name="title2">Schemes later.</string>
+    <string name="title3">Coffee Products</string>
+
+    <string name="search">Search</string>
+    <string name="order_now">Order Now</string>
+
+</resources>
